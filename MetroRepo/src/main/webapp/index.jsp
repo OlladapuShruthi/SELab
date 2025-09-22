@@ -5,7 +5,8 @@
 </head>
 <body>
     <h1 style="text-align: center;">Welcome to the Metro Train Booking</h1>
-    <p style="width: auto;">This is a simple web application built using JSP and Maven.</p>
+
+    <p>This is a simple web application built using JSP and Maven.</p>
 
     <h3>What do you want to do?</h3>
     <ul>
