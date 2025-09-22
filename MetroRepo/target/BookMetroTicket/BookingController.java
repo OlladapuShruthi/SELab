@@ -4,7 +4,8 @@ import org.springframework.http.HttpStatus;
 
 package BookMetroTicket;
 
-
+System.out.println("BookingController initialized");
+System.out.println("BookingController initialized");
 @RestController
 @RequestMapping("/booking")
 public class BookingController {
