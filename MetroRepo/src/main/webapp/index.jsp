@@ -12,5 +12,6 @@
         <li><a href="register.jsp">Registration for New user</a></li>
         <li><a href="login.jsp">Login page for booking</a></li>
     </ul>
+    <p></p>
 </body>
 </html>
