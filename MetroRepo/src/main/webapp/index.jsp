@@ -4,7 +4,7 @@
     <title>Metro Tain Booking</title>
 </head>
 <body>
-    <h1>Welcome to the Metro Tain Booking</h1>
+    <h1 style="text-align: center;">Welcome to the Metro Train Booking</h1>
     <p>This is a simple web application built using JSP and Maven.</p>
 
     <h3>What do you want to do?</h3>
