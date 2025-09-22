@@ -19,6 +19,9 @@
         <li><a href="register.jsp">Registration for New user</a></li>
         <li><a href="login.jsp">Login page for booking</a></li>
     </ul>
+    <p>Removed  metro Cancellation feature</p>
     <p></p>
+    <p>Removed  metro Cancellation feature</p>
+    <p>Removed  metro Cancellation feature</p>
 </body>
 </html>
